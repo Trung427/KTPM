@@ -1,0 +1,24 @@
+{
+  "name": "ktpm",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000K\u0000T\u0000P\u0000M\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trung427/KTPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Trung427/KTPM/issues"
+  },
+  "homepage": "https://github.com/Trung427/KTPM#readme"
+}
