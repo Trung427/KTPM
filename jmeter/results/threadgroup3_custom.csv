@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Sub Page 1,20,1523,702,2900,702.96,0.000%,.33527,142.93,0.12,436548.2
+Sub Page 2,20,297,100,912,198.87,0.000%,.34453,38.39,0.12,114109.2
+TOTAL,40,910,100,2900,801.67,0.000%,.66746,179.46,0.24,275328.7
